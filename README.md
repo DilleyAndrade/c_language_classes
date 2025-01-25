@@ -25,7 +25,7 @@ This repository is ideal for beginners and programming enthusiasts.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   https://github.com/DilleyAndrade/c_language_classes.git
 
 📬 Contributions
 Contributions are welcome! If you have suggestions for improvements, new examples, or challenges, feel free to open issues or submit pull requests.
